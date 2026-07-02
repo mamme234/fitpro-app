@@ -1,4 +1,4 @@
-Frontend (React + TypeScript + Vite)
+Frontend (React + TypeScript + Vite + Tailwind)
 
 Local dev:
 1. cd frontend
